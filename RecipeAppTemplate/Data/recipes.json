@@ -1,0 +1,588 @@
+
+[
+    {
+               "name": "Vegan Eggplant Parmesean",
+               "featured": false,
+               "image" : "Vegan Eggplant Parmesean",
+               "description": "Simple vegan eggplant parmesen recipe",
+               "prepTime": "35 minutes",
+               "cookTime":"35 minutes",
+               "totalTime": "1 hour 10 minutes",
+               "servings": 2,
+               "highlights": [
+                  "Vegan",
+                  "Healthy",
+                  "Simple"
+               
+               ],
+               
+               "ingredients": [
+                    {"name": "Medium Eggplant", "num": 1},
+                    {"name": "all purpose flour", "num": 1, "denom": 4, "unit": "cup"},
+                    {"name": "vegan bread crumbs", "num": 1, "unit": "cup"},
+                    {"name": "dried Oregano", "num": 1, "unit": "tbsp"},
+                    {"name": "salt", "num": 1, "denom": 4, "unit": "tsp"},
+                    {"name": "unsweetened Almond Milk", "num": 1, "denom": 2, "unit": "cup"},
+                    {"name": "cornstarch", "num": 1, "unit": "tsp"},
+                    {"name": "Spagetti noodles", "num": 8, "unit": "ounces"},
+                    {"name": "marinara sauce", "num": 3, "unit": "cups"}
+                ],
+               
+               "directions":  [
+               "Cut medium eggplant into 1/2-inch thick round slices.",
+               "Place eggplant slices in a colander and sprinkle generously with salt.",
+               "Let the eggplant slices sit for 20 minutes and then rinse well under running cold water.",
+               "Transfer eggplant slices to a work surface and place a dry kitchen towel. Place another dry kitchen towel on top of eggplant slices. Let slices sit for 15 minutes (pressing down on them every few minutes to dry them).",
+               "Preheat oven to 400 F.",
+               "Bring a pot of water to a boil and place noodles of choice in the pot (let them cook to desired tenderness).",
+               "Place aluminum foil on baking sheet and spray with nonstick cooking spray.",
+               "Get 3 bowls to for dipping stations. Place almond milk and cornstarch in bowl 1, put the flour in bowl 2, and place bread crumbs, oregano, salt, and vegan parmesean in the remaining bowl.",
+               "Once the eggplant slices are dry, proceed to dip epplant slices in flour, followed by almond milk, and the breadcrumb mixture.",
+               "Place the eggplant slices on baking dish and place in the oven for 25-30 minutes.",
+               "While eggplant is baking in the oven, add vegetable oil to a skillet at a depth of 1/2 inch. Heat skillet and oil to medium heat.",
+               "Pull a couple eggplant slices out of the oven and cook for 2-3 minutes on each side (or until browned), and return to the oven for final browning (please don't burn them, place them back in just enough to get a final crisp on them).",
+               "Add whatever spices you like to marinara sauce and heat on stovetop.",
+               "To serve: Add pasta to plate, pour marinara sauce over pasta, and place eggplant slices on top.",
+               "Add additional vegan parmesan for final topping."        ]
+    },
+    {
+                "name": "Vegan Lasagna",
+                "featured": true,
+                "image" : "Vegan Lasagna",
+                "description": "Tasty vegan lasagna recipe",
+                "prepTime": "55 hour",
+                "cookTime":"50 minutes",
+                "totalTime": "1 hour 45 minutes",
+                "servings": 2,
+                "highlights": [
+                    "Vegan",
+                    "Healthy",
+                    "Delicious"
+
+                ],
+                
+                "ingredients": [
+                {"name": "olive oil", "num": 3, "unit": "tbsp"},
+                {"name": "chopped onion", "num": 1, "unit": "cup"},
+                {"name": "garlic powder", "num": 5, "unit": "tbsp"},
+                {"name": "(14.5 oz) cans stewed tomatoes", "num": 4},
+                {"name": "tomato paste", "num": 1, "denom": 4, "unit": "cup"},
+                {"name": "basil", "num": 3, "denom": 4, "unit": "cup"},
+                {"name": "parsley flakes", "num": 3, "denom": 4, "unit": "cup"},
+                {"name": "salt", "num": 2, "unit": "tsp"},
+                {"name": "black pepper to taste"},
+                {"name": "white sugar", "num": 2, "unit": "tbsp"},
+                {"name": "lasagna noodles", "num": 1},
+                {"name": "plant based beef substitute", "num": 2, "unit": "lbs"},
+                {"name": "vegan ricotta cheese", "num": 16, "unit": "ounces"},
+                {"name": "vegan mozzerella cheese", "num": 1, "unit": "lbs"},
+                {"name": "vegan parmesean cheese", "num": 1, "unit": "cup"},
+                {"name": "water", "num": 3, "denom": 4, "unit": "cups"}
+                
+                
+                ],
+                
+            "directions":  [
+            "Heat the olive oil in a large saucepan over medium heat. Put the onions in the pan and saute until they becoome soft. After the onions wither, add 3 tablespoons of garlic powder and let simmer for 3 to 5 minutes.",
+            "In a Dutch oven, cook beef substitute for 8 to 15 minutes over medium heat, Place tomato paste, stewed tomatoes, 3/4 cup basil, 3/4 cup parsley, 2 teaspoons salt,2 tbsp white sugar, water, and 2 teaspoons pepper in Dutch oven with beef substitue and let simmer for 1 hour on low heat covered, stirring occasionally (to keep from sticking).",
+            "While the sauce is simmering, bring a pot of water to a boil. Placing the lasagna noodles in the water, let the water come back to a boil, and boil noodles until they are halfway done ( around 5 min, do not overcook lasagna noodles). Drain the noodles.",
+            "In a mixing bowl, combine ricotta cheese alternate (kitehill has a great one) with 2 tbsp parsley flakes.",
+            "Preheat the oven to 375 degrees F (200 degrees C).",
+            "Spread 1 1/2 cups of meat sauce across the entire bottom of a 9x13 inch baking dish. Arrange noodles lengthwise over the meat sauce. Spread half of the ricotta cheese mixture. Top with 1/3 of vegan mozzerella cheese slices. Spread 1 1/2 cups of sauce over mozzerella, and top with 1/4 cup vegan Parmesean cheese. Repeat layers, top it off finally with mozzarella and parmesean                  cheese (Add extra if you like).",
+            "Spray aluminum foil with cooking spray (to prevent sticking), and cover with foil.",
+            "Bake for 25 min at 375 degrees F. Remove foil, and bake for another 25 minutes.",
+            "Let cool 15 before serving."
+            
+            ]
+    },
+    {
+                "name": "Loaded Vegan Baked Potato",
+                "featured": false,
+                "image" : "Loaded Baked Potato",
+                "description": "Simple vegan loaded baked potato recipe",
+                "prepTime": "10 minutes",
+                "cookTime":"1 hour",
+                "totalTime": "1 hour 10 minutes",
+                "servings": 6,
+                "highlights": [
+                  "Vegan",
+                  "Healthy",
+                  "Easy"
+                  
+                ],
+                
+                "ingredients": [
+                {"name": "large russet potatoes", "num": 6},
+                {"name": "salt to taste"},
+                {"name": "pepper to taste"},
+                {"name": "country crock butter", "num": 12, "unit": "tbsp"},
+                {"name": "imitation bacon bits", "num": 6, "unit": "tbsp"},
+                {"name": "vegan sour cream", "num": 6, "unit": "tbsp"},
+                {"name": "vegan cheddar cheese", "num": 1},
+                {"name": "Del Monte homestyle guacamole (black bean and corn)", "num": 6, "unit": "tbsp"},
+                {"name": "salsa", "num": 6, "unit": "tbsp"}
+
+                ],
+                
+                "directions": [
+                "Preheat oven to 400 degrees F.",
+                "Place potatoes in oven for about an hour (or until desired tenderness is met).",
+                "Slice each potato down the middle with a sharp knife.",
+                "Add 2 tbsp fo country crock, 1 tbsp imitation bacon bits, 1 tbsp vegan sour cream, 1 tbsp Delmonte homestyle guacamole (black bean and corn), 1 tbsp salsa, salt and pepper to taste, and top it off with vegan cheddar cheese."
+                
+                ]
+    },
+    {
+                "name": "Vegan BBQ Meatballs",
+                "featured": false,
+                "image" : "BBQ Meatballs",
+                "description": "Very simple vegan BBQ Meatballs",
+                "prepTime": "5 minutes",
+                "cookTime":"1 hour",
+                "totalTime": "1 hour 5 minutes",
+                "servings": 6,
+                "highlights": [
+                  "Vegan",
+                  "Healthy",
+                  "Simple"
+
+                  
+
+                 ],
+                
+
+
+
+
+
+                "ingredients": [
+                
+                {"name": "Garden frozen meatballs (2 bags)"},
+                {"name": "18 oz BBQ sauce", "num": 2},
+                {"name": "onion powder", "num": 2, "unit": "tsp"},
+                {"name": "garlic powder", "num": 2, "unit": "tsp"}
+                
+
+
+
+        ],
+                
+                "directions": [
+                "Pour 1 1/2 bottles of BBQ sauce in crockpot",
+                "Put crockpot on high",
+                "Add 2 tsp onion powder",
+                "Add 2 tsp garlic powder",
+                "Stir really good",
+                "Place frozon meatballs in crockpot (mixing around well in crockpot with BBQ sauce)",
+                "Cook on high for about an hour (checking and stirring every now and then"
+                ]
+    },
+    {
+                "name": "Vegan Meatloaf",
+                "featured": true,
+                "image" : "Meatloaf",
+                "description": "Easy vegan meatloaf recipe",
+                "prepTime": "5 minutes",
+                "cookTime":"1 hour",
+                "totalTime": "1 hour 5 minutes",
+                "servings": 8,
+                "highlights": [
+                  "Vegan",
+                  "Healthy",
+                  "Easy"
+                  
+                ],
+
+
+
+
+                "ingredients":  [
+                {"name": "plant based ground beef", "num": 2, "unit": "lbs"},
+                {"name": "onion powder", "num": 1, "unit": "tbsp"},
+                {"name": "garlic powder", "num": 1, "unit": "tbsp"},
+                {"name": "vegetable bouillon paste", "num": 1, "unit": "tsp"},
+                {"name": "bell pepper (diced)", "num": 1},
+                {"name": "onion (diced)", "num": 1},
+                {"name": "panko bread crumbs", "num": 1, "unit": "cup"},
+                {"name": "almond milk", "num": 3, "denom": 4, "unit": "cup"},
+                {"name": "brown sugar", "num": 2, "unit": "tbsp"},
+                {"name": "mustard", "num": 2, "unit": "tbsp"},
+                {"name": "ketchup", "num": 1, "denom": 4, "unit": "cup"}
+
+
+
+            
+                
+                ],
+                
+                "directions": [
+                "Preheat oven to 400 F (175 degrees C).",
+                "In large bowl, combine plant based beef, onion, almond milk, vegetable bouillon paste, bell pepper, and panko bread crumbs.",
+                "In another mixing bowl, mix brown sugar, mustard, and ketchup together and pour over the meatloaf.",
+                "Bake at 400 F (175 degrees C) for 1 hr.",
+                "Allow to cool before slicing."
+                ]
+    },
+    {
+        "name": "Vegan Mac and Cheese",
+        "featured": true,
+        "image" : "Mac and Cheese",
+        "description": "Great tasting vegan Mac and cheese recipe",
+        "prepTime": "15 minutes",
+        "cookTime":"40 minutes to 1 hour",
+        "totalTime": "1 hour",
+        "servings": 8,
+        "highlights": [
+          "Vegan",
+          "Healthy",
+          "Easy"
+          
+        ],
+
+
+        
+        
+
+
+
+
+
+        "ingredients":  [
+        {"name": "macaroni elbows", "num": 2, "unit": "lbs"},
+        {"name": "unsweetened almond milk", "num": 3, "unit": "cups"},
+        {"name": "mustard", "num": 1, "unit": "tsp"},
+        {"name": "pack of vegan cheese", "num": 3},
+        {"name": "garlic powder", "num": 1, "unit": "tbsp"},
+        {"name": "onion powder", "num": 1, "unit": "tbsp"},
+        {"name": "black powder", "num": 1, "unit": "tbsp"},
+        {"name": "salt", "num": 3},
+        {"name": "vegan butter", "num": 1, "denom": 2, "unit": "cup"}
+
+        
+        
+        ],
+        "directions": [
+        "Preheat oven to 400 F, and butter a casserole dish.",
+        "Bring 8 quarts of water to a boil and add macaroni and 3 tsp of salt. Cook macaroni until about 3/4 done. (Don't overcook because macaroni will become gummy).",
+        "Add all ingredients (except butter and macaroni) to the blender and blend until the mixture has smooth texture.",
+        "Pour macaroni and butter into a baking pan and stir until butter is mixed well with macaroni.",
+        "Pour the cheese sauce from blender onto the macaroni until the macaroni is covered (top with extra cheese if desired).",
+        "Place in oven and bake for about 40 minutes to an hour (vegan cheese sometimes takes longer to melt completely, check to see if macaroni has desired browness).",
+        "Let the done dish cool before eating."        ]
+    },
+    {
+                "name": "Collard Greens",
+                "featured": false,
+                "image" : "Collard Greens",
+                "description": "Collard Greens recipe",
+                "prepTime": "15 minutes",
+                "cookTime": "40 minutes to 1 hour",
+                "totalTime": "1 hour",
+                "servings": 8,
+                "highlights": [
+                  "Vegan",
+                  "Healthy",
+                  "Easy"
+
+                ],
+                
+
+
+
+
+
+
+
+                "ingredients":  [
+                {"name": "bags of shredded collard greens", "num": 2},
+                {"name": "onion chopped", "num": 1},
+                {"name": "garlic cloves (minced)", "num": 2},
+                {"name": "garlic powder", "num": 2, "unit": "tbsp"},
+                {"name": "onion powder", "num": 2, "unit": "tbsp"},
+                {"name": "salt" , "num": 1, "unit": "tbsp"},
+                {"name": "cayenne pepper", "num": 3, "denom": 4, "unit": "tsp"},
+                {"name": "vegetable bouillon paste", "num": 1, "unit": "tbsp"},
+                {"name": "vegetable broth", "num": 2, "unit": "cups"},
+                {"name": "liquid smoke", "num": 1, "denom": 4, "unit": "cup"},
+                {"name": "vegan butter", "num": 1, "denom": 4, "unit": "cup"},
+                {"name": "apple cider vinegar", "num": 1, "denom": 4, "unit": "cups"}
+
+
+           
+                ],
+                 
+                 "directions": [
+                 "Add chopped onion, garlic powder, onion powder, salt, cayenne pepper, bouillon paste, vegetable broth, liquid smoke, and vegan butter to large pot. Cook on medium heat until chopped garlic cloves and onions soften.",
+                 "Add greens, cover and cook for about 30 minutes. After 30 minutes, add vinegar and stir well.",
+                 "Cook to desired tenderness."        ]
+    },
+    
+    
+    
+    {
+        "name": "Vegan Pizza",
+        "featured": false,
+        "image": "pizza",
+        "description": "Vegan pizza recipe!",
+        "prepTime": "2 hours 10 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "2 hours 35 minutes",
+        "servings": 6,
+        "highlights": [
+        "Vegan",
+        "Healthy",
+        "Easy"
+        
+        ],
+        
+        "ingredients": [
+        
+        {"name": "water", "num":5, "denom": 4, "unit": "cups"},
+        {"name": "olive oil", "num": 2, "unit": "tbsps"},
+        {"name": "active dry yeast", "unit": "tsp"},
+        {"name": "salt", "num": 1, "unit": "tsp"},
+        {"name": "cornmeal", "num": 1, "unit": "tbsp"},
+        {"name": "cooking spray"},
+        {"name": "vegan pizza sauce", "num": 14, "unit": "ounces"},
+        {"name": "green pepper", "num": 1},
+        {"name": "sliced mushrooms", "num": 1, "denom": 2, "unit": "lb"},
+        {"name": "onion", "num": 1},
+        {"name": "olives (desired amount of sliced olives)"},
+        {"name": "oregano (sprinkle to taste)"},
+        {"name": "olive oil", "num": 1, "unit": "tbsp"}
+        
+        
+        
+        ],
+    
+    
+    "directions": [
+        
+        "Combine water, flour, 3 tbsps of olive oil, yeast, and salt in a bowl. When dough comes together, put it on a lightly floured surface and knead until it is smooth and has elasticity. This will take about 10 minutes.",
+        "Spray a large bowl with the cooking spray of your choice (or lightly grease the bowl), and coat the dough while in the bowl. Cover the bowl with a towel and let the dough rise in a environment for about 2 hours.",
+        "Preheat oven to 450 degrees F (230 degrees C), and lightly coat two 14 inch pizza pans with cooking spray (or oil of choice). Lightly sprinkle each pan with cornmeal.",
+        "Split dough in half and roll into 2 circles. Put each dough circle onto a prepared pizza pan.",
+        "Spread pizza sauce onto dough, place olives, onions, mushrooms, peppers, and oregano on top of sauce. Pour 1 tbsp of olive oil over sauce and toppings.",
+        "Bake pizzas at 450 degrees F (230 degrees C) until crust is a golden color, usually about 25 minutes."
+    
+    
+    ]
+    
+},
+    {
+     
+     "name": "Vegan Potato Soup",
+     "featured": false,
+     "image": "Potato Soup",
+     "description": "Easy vegan potato soup",
+     "prepTime": "10 minutes",
+     "cookTime": "30 minutes",
+     "totalTime": "40 minutes",
+     "servings": 4,
+     "highlights": [
+     "Vegan",
+     "Healthy",
+     "Easy"
+     
+     ],
+    
+    "ingredients": [
+    
+    {"name": "chopped onion", "num":1, "unit": "cup"},
+    {"name": "diced celery", "num": 1, "unit": "cup"},
+    {"name": "diced carrot", "num": 1, "unit": "cup"},
+    {"name": "minced garlic", "num": 3, "unit": "cloves"},
+    {"name": "potatoes (peeled and cut into 1 inch squares)", "num": 5},
+    {"name": "vegetable broth", "num":4, "unit": "cups"},
+    {"name": "salt", "num": 4, "unit": "teaspoons"},
+    {"name": "black pepper", "num": 1, "unit": "teaspoon"},
+    {"name": "almond milk", "num": 2, "unit": "cups"}
+    
+    
+    
+    
+    ],
+    
+    "directions": [
+    
+    "Warm up olive oil in a pot over medium heat. Add celery, carrots, onions, garlic, and cook unitl the become soft. Add potatoes, vegetable broth, and 2 teaspoons of salt, and bring to a boil. Reduce the heat and simmer until potatoes become tender (around 15 minutes).",
+    
+    "Remove approximately half of the soup and puree with a blender until smooth. Return the pureed soup to the pot and stir in almond milk.",
+    
+    "Simmer for 15 minutes. Add remaining salt and pepper."
+    
+    
+    
+    
+    
+    
+    ]
+    
+    
+    },
+    {
+        "name": "Vegan Cupcakes",
+        "featured": false,
+        "image": "Cupcakes",
+        "description": "Delicious vegan cupcake recipe",
+        "prepTime": "10 minutes",
+        "cookTime": "25 minutes",
+        "totalTime": "35 minutes",
+        "servings": 12,
+        "highlights": [
+        "Vegan",
+        "Healthy",
+        "Easy"
+        
+        ],
+        
+    "ingredients": [
+        
+        {"name": "almond milk", "num":3, "denom": 2, "unit": "cup"},
+        {"name": "all-purpose flour", "num": 2, "unit": "cups"},
+        {"name": "sugar", "num": 1, "unit": "cup"},
+        {"name": "baking powder", "num": 2, "unit": "tbsps"},
+        {"name": "baking soda", "num": 1, "denom": 2},
+        {"name": "salt", "num": 1, "denom": 2,  "unit": "tsp"},
+        {"name": "cocount oil (liquid)", "num": 1, "denom": 2, "unit": "cup"},
+        {"name": "vanilla extract", "num": 5, "denom": 4, "unit": "tsp"},
+        {"name": "apple cider vinegar", "num": 1, "unit": "tbsp"}
+        
+    
+    
+    ],
+    
+    "directions": [
+    
+    "Preheat oven to 350 degrees F (175 degrees C). Line a 12 cup muffin pan with paper baking cups.",
+    
+    "Pour almond milk and apple cider into a measuring cup, and let it stand for about 5 minutes. In a large mixing bowl, mix the baking powder, baking soda, flour, sugar, and salt together. In another bowl, mix the coconut oil, vanilla extract, and almond milk together.",
+    
+    "Mix all ingredients together and stir until the mixture is blended well",
+    
+    "Use a spoon to put the batter in cups evenly.",
+    
+    "Bake in oven 15 to 20 minutes.",
+    
+    "Let cupcakes cool, and then serve."
+    
+    
+    
+    
+    ]
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    },
+    
+{
+    "name": "Vegan Butternut Squash Soup",
+    "featured": false,
+    "image": "Squash Soup",
+    "description": "Delicious butternut squash soup recipe",
+    "prepTime": "10 minutes",
+    "cookTime": "25 minutes",
+    "totalTime": "35 minutes",
+    "servings": 8,
+    "highlights": [
+    "Vegan",
+    "Healthy",
+    "Easy"
+    
+    ],
+    
+    "ingredients": [
+    
+    {"name": "large butternut squash", "num":1},
+    {"name": "onion", "num": 1},
+    {"name": "olive oil", "num": 1, "unit": "tbsp"},
+    {"name": "garlic (minced)", "num": 5, "unit": "cloves"},
+    {"name": "apple (peeled and chopped into about 1/2 inch pieces)", "num": 1},
+    {"name": "dried thyme", "num": 2, "unit": "tsp"},
+    {"name": "salt", "num": 1, "denom": 4, "unit": "tsp"},
+    {"name": "pepper", "num": 1, "denom": 4, "unit": "tsp"},
+    {"name": "vegetable broth", "num": 8, "unit": "cups"},
+    {"name": "oregano", "num": 1, "denom": 3}
+    
+    
+    ],
+    
+    "directions": [
+    
+    "Preheat oven to 400 degrees F (204 degrees C).",
+    
+    "Cut squash in half lengthwise, and remove seeds. Place sqaush with the open side down in a greased baking pan.",
+    
+    "Bake squash uncovered for 45-80 minutes until tender. Let cool for a little bit.",
+    
+    "In a pot, cook apple and onion in oil until tender, and add garlic. Scoop out the inside of the squash (discarding seeds) and add to apple and onion mixture. Also add broth.",
+    
+    "Let simmer on low heat for about 15 minutes.",
+    
+    "Let cool enough to empty contents into a blender, and puree until smooth.",
+    
+    "Return to pot, and heat to desired temperature."
+    
+    
+    
+    
+    
+    
+    ]
+    
+    
+    
+    
+},
+{
+    "name": "Vegan Hot Chocolate",
+    "featured": false,
+    "image": "Hot Chocolate",
+    "description": "Great hot chocolate recipe",
+    "prepTime": "5 minutes",
+    "cookTime": "5 minutes",
+    "totalTime": "10 minutes",
+    "servings": 2,
+    "highlights": [
+    "Vegan",
+    "Healthy",
+    "Easy"
+    
+    ],
+    
+    
+    "ingredients": [
+    
+    {"name": "almond milk", "num":2, "unit": "cups"},
+    {"name": "maple syrup", "num": 3, "unit": "tbsp"},
+    {"name": "Cocoa powder", "num": 2, "unit": "tbsp"}
+
+    
+    ],
+    
+    "directions": [
+    
+    "Place all ingredients in small pot until warm."
+    
+    
+    ]
+    
+
+
+
+
+}
+    
+
+
+
+]

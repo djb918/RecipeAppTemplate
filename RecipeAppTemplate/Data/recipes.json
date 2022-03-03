@@ -546,7 +546,7 @@
 {
     "name": "Vegan Hot Chocolate",
     "featured": false,
-    "image": "Hot Chocolate",
+    "image": "hot chocolate",
     "description": "Great hot chocolate recipe",
     "prepTime": "5 minutes",
     "cookTime": "5 minutes",
@@ -562,7 +562,7 @@
     
     "ingredients": [
     
-    {"name": "almond milk", "num":2, "unit": "cups"},
+    {"name": "almond milk", "num": 2, "unit": "cups"},
     {"name": "maple syrup", "num": 3, "unit": "tbsp"},
     {"name": "Cocoa powder", "num": 2, "unit": "tbsp"}
 
@@ -571,7 +571,7 @@
     
     "directions": [
     
-    "Place all ingredients in small pot until warm."
+    "Place all ingredients in small pot until warm stirring occasionally."
     
     
     ]
@@ -579,10 +579,56 @@
 
 
 
+    },
+    {
+        
+        
+        "name": "Vegan Peppermint Mocha",
+        "featured": false,
+        "image": "peppermint mocha",
+        "description": "Delicious Peppermint Mocha Recipe",
+        "prepTime": "5 minutes",
+        "cookTime": "5 minutes",
+        "totalTime": "15 minutes",
+        "servings": 1,
+        "highlights": [
+        "Vegan",
+        "Healthy",
+        "Easy"
 
-}
-    
+        ],
+        
+        "ingredients": [
+        
+        {"name": "coffee", "num": 3, "denom": 4, "unit": "cup"},
+        {"name": "almond milk", "num": 1, "denom": 4, "unit": "cup"},
+        {"name": "vegan chocolate (melted)", "num": 1, "denom": 4, "unit": "cup"},
+        {"name": "peppermint extract", "num": 2, "unit": "drops"},
+        {"name": "peppermint candy (crushed)", "num": 1, "unit": "tsp"}
+        
+        
+        
+        
+        ],
+        
+        "directions": [
+            
+            "Get your cup of coffee, however you prepare it.",
+            "Heat almond milk in a sauce pan until warm (not boiling).",
+            "Melt the chocolate unitl it can be spooned in the coffee.",
+            "Add the peppermint candy, chocolate, and peppermint extract to the coffee and stir well.",
+            "Next, add the almond milk and stir well.",
+            "Add vegan whip to the top if you desire!"
+        
+        
+        
+        ]
 
 
 
-]
+        }
+        
+        
+        
+        
+        ]

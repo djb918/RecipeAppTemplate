@@ -828,6 +828,63 @@
             ]
             
             
+            },
+            {
+            
+            "name": "Fried Mushrooms (Vegan Fried Chicken)",
+            "category": "Vegan Meat Dishes",
+            "featured": false,
+            "image": "mushrooms",
+            "description": "Delicious Fried Mushrooms",
+            "prepTime": "15 minutes",
+            "cookTime": "10 minutes",
+            "totalTime": "25 minutes",
+            "servings": 3,
+            "highlights": [
+            "Vegan",
+            "Tasty",
+            "Mushrooms"
+
+            ],
+            
+            
+            "ingredients": [
+            
+            
+            {"name": "Packages of Oyster Mushrooms", "num": 2},
+            {"name": "flour", "num": 1, "unit": "cup"},
+            {"name": "cornstarch", "num": 1, "denom": 2, "unit": "cup"},
+            {"name": "baking powder", "num": 3, "denom": 4, "unit": "tsp"},
+            {"name": "Lawry's Season Salt", "num": 1, "denom": 4, "unit": "tsp"},
+            {"name": "almond milk", "num": 1, "unit": "cup"},
+            {"name": "garlic powder", "num": 1, "denom": 2, "unit": "tsp"},
+            {"name": "onion powder", "num": 1, "unit": "tbsp"},
+            {"name": "Panko bread crumbs", "num": 2, "unit": "cups"}
+            
+            
+            ],
+            
+            "directions": [
+                
+                "Mix flour, baking powder, cornstarch, Lowry's season salt, garlic powder, and onion powder in a bowl.",
+                "Add almond milk to create batter.",
+                "Dip mushrooms into batter making sure to let excess batter drip off.",
+                "After dipping into batter, roll batter dipped mushrooms in Panko bread crumbs.",
+                "Deep fry in oil until they are golden brown."
+          
+          
+          ]
+            
+            
             }
+          
+          
+          
+          
+          
+          
+          
+          
+          
         
             ]

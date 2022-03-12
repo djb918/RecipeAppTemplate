@@ -775,6 +775,59 @@
 
         
         
-        }
+        },
+        {
+            
+            "name": "Cabbage",
+            "category": "Side Dishes",
+            "featured": false,
+            "image": "cabbage",
+            "description": "Very tasty cabbage recipe.",
+            "prepTime": "10 minutes",
+            "cookTime": "15 minutes",
+            "totalTime": "25 minutes",
+            "servings": 2,
+            "highlights": [
+            "Vegan",
+            "Tasty",
+            "Vegetable"
+
+            ],
+            
+            
+            "ingredients": [
+            
+            
+            {"name": "Heads of cabbage", "num": 2},
+            {"name": "onion (sliced)", "num": 1},
+            {"name": "liquid smoke", "num": 1, "denom": 4, "unit": "cup"},
+            {"name": "yellow pepper (sliced)", "num": 1},
+            {"name": "vegetable bouillon paste", "num": 1, "unit": "tbsp"},
+            {"name": "vegan butter", "num": 4, "unit": "tbsp"},
+            {"name": "onion powder", "num": 1, "unit": "tbsp"},
+            {"name": "garlie powder", "num": 1, "unit": "tbsp"},
+            {"name": "water", "num": 2, "unit": "cups"},
+            {"name": "imitation bacon bits", "num": 3, "unit": "tbsp"},
+            {"name": "salt pepper to taste", "num": 1, "unit": "tsp"}
+            
+            
+            ],
+            
+            "directions": [
+                
+                "Add everything besides cabbage to a pot.",
+                "Cook until onions and peppers wither.",
+                "Add cabbage to the pot.",
+                "Mix and stir cabbage until cabbage is covered with broth.",
+                "Cook until cabbage has reached your desired tenderness."
+                
+                
+            
+            
+            
+            ]
+            
+            
+            }
         
-        ]
+            ]

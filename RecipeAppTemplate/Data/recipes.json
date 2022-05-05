@@ -48,7 +48,7 @@
     },
     {
                 "name": "Vegan Lasagna",
-                "category": "Italian",
+                "category": "Entrees",
                 "featured": true,
                 "image" : "Vegan Lasagna",
                 "description": "Tasty vegan lasagna recipe",
@@ -137,7 +137,7 @@
     },
     {
                 "name": "Vegan BBQ Meatballs",
-                "category": "Vegan Meat Dishes",
+                "category": "Entrees",
                 "featured": false,
                 "image" : "BBQ Meatballs",
                 "description": "Very simple vegan BBQ Meatballs",
@@ -183,7 +183,7 @@
     },
     {
                 "name": "Vegan Meatloaf",
-                "category": "Vegan Meat Dishes",
+                "category": "Entrees",
                 "featured": true,
                 "image" : "Meatloaf",
                 "description": "Easy vegan meatloaf recipe",
@@ -328,7 +328,7 @@
     
     {
         "name": "Vegan Pizza",
-        "category": "Italian",
+        "category": "Entrees",
         "featured": false,
         "image": "pizza",
         "description": "Vegan pizza recipe!",
@@ -556,7 +556,7 @@
 },
 {
     "name": "Vegan Hot Chocolate",
-    "category": "Hot Drinks",
+    "category": "Vegan Drinks",
     "featured": false,
     "image": "hot chocolate",
     "description": "Great hot chocolate recipe",
@@ -596,7 +596,7 @@
         
         
         "name": "Vegan Peppermint Mocha",
-        "category": "Hot Drinks",
+        "category": "Vegan Drinks",
         "featured": false,
         "image": "peppermint mocha",
         "description": "Delicious Peppermint Mocha Recipe",
@@ -832,7 +832,7 @@
             {
             
             "name": "Fried Mushrooms (Vegan Fried Chicken)",
-            "category": "Vegan Meat Dishes",
+            "category": "Entrees",
             "featured": false,
             "image": "mushrooms",
             "description": "Delicious Fried Mushrooms",
@@ -876,6 +876,424 @@
           ]
             
             
+            },
+            {
+                "name": "Vegan Hamburger Dip",
+                "category": "Entrees",
+                "featured": false,
+                "image": "hamburger dip",
+                "description": "Vegan Hamburger Dip Recipe",
+                "prepTime": "15 minutes",
+                "cookTime": "25 minutes",
+                "totalTime": "40 minutes",
+                "servings": 8,
+                "highlights": [
+                "Vegan",
+                "Tasty",
+                "Dip"
+
+                ],
+                
+                
+                "ingredients": [
+                
+                
+                {"name": "Olive Oil", "num": 1, "unit": "tbsp"},
+                {"name": "Impossible ground beef", "num": 1, "unit": "lb"},
+                {"name": "Onion (chopped)", "num": 1, "denom": 2},
+                {"name": "garlic (minced)", "num": 2, "unit": "cloves"},
+                {"name": "Diced tomatoes and chilis", "num": 1, "unit": "can"},
+                {"name": "paprika", "num": 1, "denom": 2, "unit": "tsp"},
+                {"name": "cayenne pepper", "num": 1, "denom": 4, "unit": "tsp"},
+                {"name": "vegan cream cheese", "num": 8, "unit": "ounces"},
+                {"name": "vegan shredded cheese", "num": 16, "unit": "ounces"},
+                {"name": "almond milk", "num": 3, "denom": 2, "unit": "cups"}
+                
+                
+                ],
+                
+                "directions": [
+                    
+                    "Heat all ingredients except cream cheese, almond milk, and shredded cheese on medium heat.",
+                    "Once the impossible meat is browned and the onions are sauteed, add almond milk, cream cheese, and shredded cheese while constantly stirring.",
+                    "Dip mushrooms into batter making sure to let excess batter drip off.",
+                    "Keep stirrng until cheese is well melted and all ingredients are mixed well."
+              
+              
+              ]
+                
+            },
+            {
+                "name": "Arroz Rojo (Red Rice)",
+                "category": "Side Dishes",
+                "featured": false,
+                "image": "rice",
+                "description": "Mexican style red rice recipe",
+                "prepTime": "20 minutes",
+                "cookTime": "25 minutes",
+                "totalTime": "45 minutes",
+                "servings": 5,
+                "highlights": [
+                "Vegan",
+                "Appetizing",
+                "Rice"
+
+                ],
+                
+                
+                "ingredients": [
+                
+                
+                {"name": "Vegetable Oil", "num": 2, "unit": "tbsp"},
+                {"name": "Roma (plum tomatoes)", "num": 2},
+                {"name": "Onion (minced)", "num": 1, "unit": "cup"},
+                {"name": "garlic (minced)", "num": 2, "unit": "cloves"},
+                {"name": "Low sodium vegetable broth", "num": 7, "denom": 4, "unit": "cups"},
+                {"name": "uncooked long-grain white rice", "num": 1, "unit": "cup"},
+                {"name": "jalapeno pepper (chopped)", "num": 1},
+                {"name": "canned tomato sauce", "num": 1, "denom": 4, "unit": "cup"},
+                {"name": "salt to taste"}
+                
+                
+                
+                ],
+                
+                "directions": [
+                    
+                    "Grate tomatoes with a grater.",
+                    "Place onions and vegetable oil in a skillet and heat on medium heat for about 5 minutes until onions become clear. Stir garlic in for an additional 2 minutes.",
+                    "Pour rice into the mixture making sure to stir frequently while cooking. Stir in grated tomatoes, vegetable broth, and tomato sauce. Bring the mixture to a boil.",
+                    "Reduce the heat to low, and mix in salt and jalapeno. Cover and let simmer until rice is finished cooking (around 15 to 20 minutes).",
+                    "When done let the rice cool off, and fluff with a fork before serving.",
+                    "Enjoy!!"
+              
+              
+              ]
+                
+                
+                
+                
+                
+            },
+            {
+                "name": "Vegan Potato Salad",
+                "category": "Side Dishes",
+                "featured": false,
+                "image": "potato salad",
+                "description": "Vegan alternative to traditional potato salad.",
+                "prepTime": "20 minutes",
+                "cookTime": "20 minutes",
+                "totalTime": "40 minutes",
+                "servings": 8,
+                "highlights": [
+                "Vegan",
+                "Savory",
+                "Potato Salad"
+
+                ],
+                
+                
+                "ingredients": [
+                
+                
+                {"name": "Potatoes (cut into square pieces)", "num": 3, "unit": "lbs"},
+                {"name": "Avocado flesh", "num": 2},
+                {"name": "Onion (minced)", "num": 1, "denom": 4},
+                {"name": "Olive oil", "num": 4, "unit": "tbps"},
+                {"name": "garlic", "num": 2, "unit": "cloves"},
+                {"name": "lemon juice", "num": 2, "unit": "tbsp"},
+                {"name": "dijon mustard", "num": 1, "unit": "tbsp"},
+                {"name": "pepper to taste"},
+                {"name": "salt to taste"}
+                
+                
+                
+                ],
+                
+                "directions": [
+                    
+                    "Add water and salt to a large pot and bring water to a boil (enough water to cover potatoes).",
+                    "Add potatoes and reduce heat to medium and let simmer until fork tender.",
+                    "When potatoes become fork tender, drain and rinse with cold water.",
+                    "Combine oil, avacado, parsley, onion, garlic, mustard, and lemon juice in a blender. Blend until smooth. (Thin out by adding 1 tablespoon of water at a time if needed.)",
+                    "Place cooled cooked potatoes in a large bowl and pour sauce on top. Gently mix until potatoes are thoroughly covered with sauce.",
+                    "Enjoy!!"
+              
+              
+              ]
+                
+                
+                
+                
+            },
+            {
+                
+                "name": "Vegan Broccoli Potato Soup",
+                "category": "Soups",
+                "featured": false,
+                "image": "broccoli",
+                "description": "Creamy vegan broccoli potato soup.",
+                "prepTime": "15 minutes",
+                "cookTime": "25 minutes",
+                "totalTime": "40 minutes",
+                "servings": 5,
+                "highlights": [
+                "Vegan",
+                "Creamy",
+                "Soup"
+
+                ],
+                
+                
+                "ingredients": [
+                
+                
+                {"name": "Potatoes (cut into square pieces)", "num": 2, "unit": "lbs"},
+                {"name": "Onion (diced)", "num": 1},
+                {"name": "Olive oil", "num": 3, "unit": "tbps"},
+                {"name": "garlic (minced)", "num": 3, "unit": "cloves"},
+                {"name": "vegetable broth", "num": 1, "unit": "quart"},
+                {"name": "salt", "num": 1, "unit": "tsp"},
+                {"name": "frozen broccoli florets", "num": 1, "unit": "lb"},
+                {"name": "carrot", "num": 1},
+                {"name": "dried dill", "num": 3, "denom": 4, "unit": "tsp"},
+                {"name": "dried thyme", "num": 1, "unit": "tsp"},
+                {"name": "Dijon mustard", "num": 1, "unit": "tsp"},
+                {"name": "white vinegar", "num": 2, "unit": "tsp"}
+                
+                
+                ],
+                
+                "directions": [
+                    
+                    "Peel potatoes and cut them into small bit sized squares.",
+                    "In a Dutch Oven or large pot,add onion and garlic and saute for 2 minutes.",
+                    "Add the potatoes and vegetable broth and 1/2 teaspoon of salt and bring to a boil.",
+                    "Reduce to a simmer unitl potatoes are fork tender (usually around 15 minutes).",
+                    "Rinse broccoli with hot water to thaw. Grate the carrot into long strips.",
+                    "Add potatoes, dill, thyme, white vinegar, dijon mustard, and salt to a blender. Blend until creamy.",
+                    "Pour the creamy mixture back into the pot from the blender and add broccoli and carrots. Simmer until broccoli is done."
+              
+              
+              ]
+                
+                
+                
+                
+                
+                
+            },
+            {
+                
+                "name": "Bean Soup",
+                "category": "Soups",
+                "featured": false,
+                "image": "bean soup",
+                "description": "Great tasting bean soup recipe.",
+                "prepTime": "10 minutes",
+                "cookTime": "25 minutes",
+                "totalTime": "35 minutes",
+                "servings": 6,
+                "highlights": [
+                "Vegan",
+                "Tasty",
+                "Soup"
+
+                ],
+                
+                
+                "ingredients": [
+                
+                
+                {"name": "Can of crushed fire roasted tomatoes", "num": 28, "unit": "oz"},
+                {"name": "Onion (diced)", "num": 1},
+                {"name": "Olive oil", "num": 3, "unit": "tbps"},
+                {"name": "garlic (minced)", "num": 4, "unit": "cloves"},
+                {"name": "vegetable broth", "num": 1, "unit": "quart"},
+                {"name": "salt", "num": 2, "unit": "tsp"},
+                {"name": "can of navy beans", "num": 15, "unit": "oz"},
+                {"name": "can of kidney beans", "num": 15, "unit": "oz"},
+                {"name": "paprika", "num": 2, "unit": "tbsp"},
+                {"name": "cumin", "num": 1, "denom": 2,  "unit": "tsp"},
+                {"name": "Dijon mustard", "num": 1, "unit": "tsp"}
+                
+                
+                ],
+                
+                "directions": [
+                    
+                    "In a large pot saute onions, and carrots until onions are translucent. Add garlic and cook for 3 more minutes.",
+                    "Add the rest of the ingredients and let simmer for 20 minutes.",
+                    "Serve warm and enjoy!"
+                    
+              
+              
+              ]
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            },
+            {
+                
+                
+                "name": "Tomato Basil Soup",
+                "category": "Soups",
+                "featured": false,
+                "image": "tomato soup",
+                "description": "Great tomato soup with fantastic basil flavor.",
+                "prepTime": "10 minutes",
+                "cookTime": "20 minutes",
+                "totalTime": "30 minutes",
+                "servings": 4,
+                "highlights": [
+                "Vegan",
+                "Easy",
+                "Soup"
+
+                ],
+                
+                
+                "ingredients": [
+                
+                
+                {"name": "Can of crushed fire roasted tomatoes", "num": 28, "unit": "oz"},
+                {"name": "Onion (diced)", "num": 1},
+                {"name": "Olive oil", "num": 2, "unit": "tbps"},
+                {"name": "garlic (minced)", "num": 3, "unit": "cloves"},
+                {"name": "vegetable broth", "num": 1, "unit": "quart"},
+                {"name": "salt", "num": 1, "unit": "tsp"},
+                {"name": "red bell pepper (diced)", "num": 1},
+                {"name": "basil leaves", "num": 1, "unit": "cup"},
+                {"name": "white vinegar", "num": 2, "unit": "tbsp"}
+                
+                
+                
+                ],
+                
+                "directions": [
+                    
+                    "Shread basil leaves into large pieces.",
+                    "Heat olive oil over medium heat in a medium pot and add red pepper an onions to saute for about 6-7 minutes until onions become clear. Add garlic and cook for another 1-2 minutes.",
+                    "Add white vinegar and cook until evaporated",
+                    "Add vegetable broth, salt, and tomatoes and bring to a simmer. Let simmer for about 15-20 minutes. Add the basil and soup to a blender and puree until creamy.",
+                    "Serve warm and enjoy!"
+                    
+              
+              
+              ]
+                
+                
+                
+                
+                
+            },
+            {
+                
+                
+                "name": "Sweet Potato Pie",
+                "category": "Desserts",
+                "featured": false,
+                "image": "sweet potato pie",
+                "description": "Absolutely amazing sweet potato pie recipe.",
+                "prepTime": "10 minutes",
+                "cookTime": "20 minutes",
+                "totalTime": "30 minutes",
+                "servings": 4,
+                "highlights": [
+                "Vegan",
+                "Tasty",
+                "Dessert"
+
+                ],
+                
+                
+                "ingredients": [
+                
+                
+                {"name": "Can of unseasoned sweet potato", "num": 15, "unit": "oz"},
+                {"name": "Vegan pie crust", "num": 1},
+                {"name": "Maple syrup", "num": 1, "unit": "cup"},
+                {"name": "coconut milk", "num": 1, "unit": "cup"},
+                {"name": "cornstarch", "num": 2, "unit": "tbsp"},
+                {"name": "vanilla extract", "num": 1, "unit": "tsp"},
+                {"name": "ground cinnamon", "num": 1, "unit": "tsp"},
+                {"name": "ground ginger", "num": 1, "denom": 4, "unit": "tsp"},
+                {"name": "salt", "num": 1, "unit": "tsp"}
+                
+                
+                
+                ],
+                
+                "directions": [
+                    
+                    "Whisk sweet potato, maple syrup, coconut milk, cornstarch, cinnamon, vanilla, ginger, and salt in a large bowl.",
+                    "Preheat oven to 350 degrees.",
+                    "Pour filling into crust.",
+                    "Bake until crust edges are golden brown and center has sort of a jiggly texture (usually around 45 min).",
+                    "Let cool about an hour before serving."
+                    
+                    
+              
+              
+              ]
+                
+                
+                
+                
+            },
+            {
+                
+                "name": "Strawberry Lemonade Frost",
+                "category": "Vegan Drinks",
+                "featured": false,
+                "image": "strawberry lemonade",
+                "description": "Delicious Vegan Strawberry Lemonade Frozen Drink.",
+                "prepTime": "5 minutes",
+                "cookTime": "5 minutes",
+                "totalTime": "10 minutes",
+                "servings": 2,
+                "highlights": [
+                "Vegan",
+                "Tasty",
+                "Slushie"
+
+                ],
+                
+                
+                "ingredients": [
+                
+                
+                {"name": "lemon juice", "num": 3, "unit": "tsp"},
+                {"name": "Frozen stawberries", "num": 1, "unit": "cup"},
+                {"name": "Maple syrup", "num": 2, "unit": "tsp"},
+                {"name": "ice", "num": 1, "unit": "cup"},
+                {"name": "water", "num": 3, "denom": 4,  "unit": "cup"}
+                
+                
+                
+                
+                ],
+                
+                "directions": [
+                    
+                    "Add all ingredients to blender and blend in 20 second cycles. If the consistency is too stiff, add water until the preferred consistency is met.",
+                    "Pour into glasses or bowls and serve."
+                    
+                    
+                    
+              
+              
+              ]
+                
+                
+                
+                
             }
           
           

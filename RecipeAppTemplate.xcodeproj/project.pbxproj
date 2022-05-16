@@ -10,6 +10,7 @@
 		622748C727D91D7500D1C88F /* RecipeCategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 622748C627D91D7500D1C88F /* RecipeCategoryView.swift */; };
 		622748C927D91DBA00D1C88F /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 622748C827D91DBA00D1C88F /* Constants.swift */; };
 		623ACF7227715EF800255504 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623ACF7127715EF800255504 /* RecipeDetailView.swift */; };
+		629FD9402824AE430049B71F /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 629FD93F2824AE430049B71F /* Launch Screen.storyboard */; };
 		62CB440427713CA700F565F3 /* RecipeAppTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62CB43F427713CA500F565F3 /* RecipeAppTemplate.swift */; };
 		62CB440627713CA700F565F3 /* RecipeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62CB43F527713CA500F565F3 /* RecipeListView.swift */; };
 		62CB440827713CA700F565F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 62CB43F627713CA700F565F3 /* Assets.xcassets */; };
@@ -27,6 +28,7 @@
 		622748C627D91D7500D1C88F /* RecipeCategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCategoryView.swift; sourceTree = "<group>"; };
 		622748C827D91DBA00D1C88F /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		623ACF7127715EF800255504 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
+		629FD93F2824AE430049B71F /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		62CB43F427713CA500F565F3 /* RecipeAppTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeAppTemplate.swift; sourceTree = "<group>"; };
 		62CB43F527713CA500F565F3 /* RecipeListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeListView.swift; sourceTree = "<group>"; };
 		62CB43F627713CA700F565F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				62CB43F427713CA500F565F3 /* RecipeAppTemplate.swift */,
+				629FD93F2824AE430049B71F /* Launch Screen.storyboard */,
 				62CB441227713DAD00F565F3 /* Data */,
 				62CB441327713DBD00F565F3 /* Models */,
 				62CB441427713DCB00F565F3 /* Services */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				629FD9402824AE430049B71F /* Launch Screen.storyboard in Resources */,
 				62CB440827713CA700F565F3 /* Assets.xcassets in Resources */,
 				62CB441827713E8200F565F3 /* recipes.json in Resources */,
 			);
@@ -404,6 +408,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
@@ -411,7 +416,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 0.1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.braggvizion.RecipeAppTemplate;
 				PRODUCT_NAME = RecipeAppTemplate;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -436,6 +441,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
@@ -443,7 +449,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 0.1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.braggvizion.RecipeAppTemplate;
 				PRODUCT_NAME = RecipeAppTemplate;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -461,10 +467,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5X325WCK6B;
+				DEVELOPMENT_TEAM = ZCS549623V;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -489,10 +496,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5X325WCK6B;
+				DEVELOPMENT_TEAM = ZCS549623V;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;

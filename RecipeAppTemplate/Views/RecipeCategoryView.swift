@@ -45,7 +45,7 @@ struct RecipeCategoryView: View {
                                         .cornerRadius(10)
                                         .clipped()
                                     Text(category)
-                                        .foregroundColor(.black)
+                                        .foregroundColor(.primary)
                                 }
                             })
                         }

@@ -45,7 +45,7 @@ struct RecipeFeaturedView: View {
                             // Recipe card
                             ZStack {
                                 Rectangle()
-                                    .foregroundColor(.white)
+                                    .foregroundColor(.primary)
                                     
                                 
                                 VStack(spacing: 0) {

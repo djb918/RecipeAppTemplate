@@ -55,11 +55,11 @@ struct RecipeListView: View {
                                             
                                             VStack (alignment: .leading) {
                                                 Text(r.name)
-                                                    .foregroundColor(.black)
+                                                    .foregroundColor(.primary)
                                                     .font(Font.custom("Avenir Heavy", size: 16))
                                                 
                                                 RecipeHighlights(highlights: r.highlights)
-                                                    .foregroundColor(.black)
+                                                    .foregroundColor(.primary)
                                             }
                                         }
                                         
